@@ -1,6 +1,8 @@
 ### ...
 
-Nothing is perfect, everything is broken in some ways. And that's what's so fascinating about this world.
+Nothing is perfect, everything is broken in some ways.
+
+And that's what's so fascinating about this world.
 
 <!--
 **yshui/yshui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
